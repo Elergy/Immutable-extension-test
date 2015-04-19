@@ -1,0 +1,14 @@
+{
+    "name": "Immutable Extension",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "browser_action": {
+        "default_title": "Immutable Extension",
+        "default_popup": "popup.html"
+    }
+}

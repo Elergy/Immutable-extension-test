@@ -1,0 +1,19 @@
+{
+  "name": "Immutable-extension-test",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Elergy/Immutable-extension-test.git"
+  },
+  "author": "elergy",
+  "bugs": {
+    "url": "https://github.com/Elergy/Immutable-extension-test/issues"
+  },
+  "homepage": "https://github.com/Elergy/Immutable-extension-test",
+  "dependencies": {
+    "immutable": "^3.7.2"
+  }
+}
