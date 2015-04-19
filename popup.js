@@ -28,13 +28,4 @@ chrome.runtime.getBackgroundPage(function(page) {
     if (typeof newImmutableData.get === 'function') {
         console.log('Ok: method get exists');
     }
-
-
-
-
-
-
-
-
-
 });
